@@ -1,0 +1,26 @@
+2022-07-14 12:49:19 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:8) ]
+INFO:This is Info Log
+2022-07-14 12:49:19 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:9) ]
+DEBUG:This is Debug Log
+2022-07-14 12:49:19 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:10) ]
+WARN:This is Error Log
+2022-07-14 12:49:19 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:11) ]
+ERROR:THis is Error Log
+2022-07-14 12:58:11 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:9) ]
+INFO:This is my first Info Log
+2022-07-14 12:58:11 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:10) ]
+DEBUG:This is my first Debug Log
+2022-07-14 12:58:11 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:11) ]
+WARN:This is my first Warn Log
+2022-07-14 12:58:11 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:12) ]
+ERROR:This is my first Error Log
+2022-07-14 12:58:11 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:13) ]
+ERROR:Second Error Log
+2022-07-14 12:58:41 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:9) ]
+INFO:This is my first Info Log
+2022-07-14 12:58:41 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:10) ]
+DEBUG:This is my first Debug Log
+2022-07-14 12:58:41 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:11) ]
+WARN:This is my first Warn Log
+2022-07-14 12:58:41 pm [Thread: main][ Class:Main >> Method: Main.main(Main.java:12) ]
+ERROR:This is my first Error Log
